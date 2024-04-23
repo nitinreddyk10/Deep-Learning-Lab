@@ -1,0 +1,9 @@
+PyTorch-
+https://www.learnpytorch.io/?authuser=0
+https://www.youtube.com/watch?v=Z_ikDlimN6A
+
+TensorFlow-
+https://www.youtube.com/watch?v=tPYj3fFJGjk
+
+Neural Networks-
+https://medium.com/@thisislong/building-a-neural-network-from-scratch-with-backpropagation-a789bec70b29
